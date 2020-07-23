@@ -50,3 +50,9 @@
 #else
 #define CONTEXT_SWITCH ::SwitchToThread()
 #endif
+
+#include "Util/Clock.h"
+#include "Util/RandomMT.h"
+#include "Util/Singleton.h"
+#include "Util/Type.h"
+#include "Util/Util.h"

@@ -158,6 +158,11 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="ServerLibrary.h" />
+    <ClInclude Include="Util\Clock.h" />
+    <ClInclude Include="Util\RandomMT.h" />
+    <ClInclude Include="Util\Singleton.h" />
+    <ClInclude Include="Util\Type.h" />
+    <ClInclude Include="Util\Util.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
